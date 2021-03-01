@@ -10,5 +10,5 @@ Meu nome é Thiago Marchi de Morais, tenho 23 anos, estou estudando TADS na univ
        min-width="420px" 
        height="200px" 
        align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=ThiagoMarch&show_icons=true&theme=chartreuse-dark&&show_icons=true&hide_border=true "/>
+       src="https://github-readme-stats.vercel.app/api?username=ThiagoMarchi&show_icons=true&theme=chartreuse-dark&&show_icons=true&hide_border=true "/>
 </p>
