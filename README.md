@@ -19,4 +19,4 @@ Meu nome é Thiago Marchi de Morais, tenho 24 anos, estou estudando TADS na univ
 </div>
 
   
-  ![Snake animation](https://github.com/ThiagoMarchi)
+  ![Snake animation](https://github.com/ThiagoMarchi/ThiagoMarchi/blob/output/github-contribution-grid-snake.svg)
