@@ -4,6 +4,7 @@ Meu nome é Thiago Marchi de Morais, tenho 24 anos, estou estudando TADS na univ
 
 <br>Estou aprendendo atualmente **HTML**, **CSS** e **Javascript**.
 
+##
 <br>
 
   <div align="center">
@@ -18,5 +19,6 @@ Meu nome é Thiago Marchi de Morais, tenho 24 anos, estou estudando TADS na univ
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+  ##
   
   ![Snake animation](https://github.com/ThiagoMarchi/ThiagoMarchi/blob/output/github-contribution-grid-snake.svg)
