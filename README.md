@@ -1,8 +1,8 @@
 ### Olá, bem-vindo ao meu perfil!
 
-Meu nome é Thiago Marchi de Morais, tenho 27 anos, estou estudando TADS na universidade Nove de Julho e estou estudando para me tornar um desenvolvedor Front-End.
+Meu nome é Thiago Marchi de Morais, tenho 27 anos, Graduado em Análise e Desenvolvimento de Sistemas, estou em busca de uma oportunidade para atuar como Engenheiro de Dados. Tenho zelo por novas tecnologias e tendências de mercado, sempre em busca de aprimorar minhas habilidades e conhecimentos.
 
-<br>Estou aprendendo atualmente **HTML**, **CSS** e **Javascript**.
+Possuo experiência em processamento, tratamento e análise de dados, com conhecimentos sólidos em desenvolvimento e automação. Desenvolvi processos de ETL/ELT e realizei migrações de dados em projetos pessoais, visando aprofundar meu entendimento e expertise na área.
 
 ##
 <br>
