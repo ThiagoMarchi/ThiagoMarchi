@@ -1,6 +1,6 @@
 ### Olá, bem-vindo ao meu perfil!
 
-Meu nome é Thiago Marchi de Morais, tenho 24 anos, estou estudando TADS na universidade Nove de Julho e estou estudando para me tornar um desenvolvedor Front-End.
+Meu nome é Thiago Marchi de Morais, tenho 27 anos, estou estudando TADS na universidade Nove de Julho e estou estudando para me tornar um desenvolvedor Front-End.
 
 <br>Estou aprendendo atualmente **HTML**, **CSS** e **Javascript**.
 
