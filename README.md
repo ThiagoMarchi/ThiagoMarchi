@@ -1,4 +1,4 @@
-### Olá, bem-vindo ao meu perfil!
+### Olá, bem-vindo(a) ao meu perfil!
 
 Meu nome é Thiago Marchi de Morais, tenho 27 anos, Graduado em Análise e Desenvolvimento de Sistemas, estou em busca de uma oportunidade para atuar como Engenheiro de Dados. Tenho zelo por novas tecnologias e tendências de mercado, sempre em busca de aprimorar minhas habilidades e conhecimentos.
 
