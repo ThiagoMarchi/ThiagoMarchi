@@ -4,6 +4,13 @@ Meu nome é Thiago Marchi de Morais, tenho 27 anos, Graduado em Análise e Desen
 
 Possuo experiência em processamento, tratamento e análise de dados, com conhecimentos sólidos em desenvolvimento e automação. Desenvolvi processos de ETL/ELT e realizei migrações de dados em projetos pessoais, visando aprofundar meu entendimento e expertise na área.
 
+<br>
+
+<div>
+  <a href="www.linkedin.com/in/thiago-marchi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "thiagomarch@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
+
 ##
 <br>
 
