@@ -27,6 +27,7 @@ Com uma especialização no ecossistema Azure e vivência em ambiente GCP, tenho
    <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="Thiago-Spark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">
+   <img align="center" alt="Thiago-Databricks" height="30" width="40" src="http://www.w3.org/2000/svg">
    <img align="center" alt="Thiago-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original-wordmark.svg">
    <img align="center" alt="Thiago-GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
    <img align="center" alt="Thiago-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
