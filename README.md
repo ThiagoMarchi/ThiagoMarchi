@@ -30,6 +30,7 @@ Com uma especialização no ecossistema Azure e vivência em ambiente GCP, tenho
    <img align="center" alt="Thiago-Databricks" height="30" width="40" src="https://raw.githubusercontent.com/ThiagoMarchi/treinamentogit/refs/heads/main/dbrx-color.svg?token=GHSAT0AAAAAADHRZMHA6ZGXC6KFFIMF5N6A2DZLP2A">
    <img align="center" alt="Thiago-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original-wordmark.svg">
    <img align="center" alt="Thiago-GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
+   <img align="center" alt="Thiago-Huawei" height="30" width="40" src="https://raw.githubusercontent.com/ThiagoMarchi/treinamentogit/refs/heads/main/idRfzG3Amf_1752783939064.svg?token=GHSAT0AAAAAADHRZMHAPQQGDSM2EWGGLB6C2DZLSQQ">
    <img align="center" alt="Thiago-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
    <img align="center" alt="Thiago-Airflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
 </div>
