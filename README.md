@@ -2,7 +2,7 @@
 
 Meu nome é Thiago Marchi de Morais, tenho 28 anos, engenheiro de Dados com formação em Análise e Desenvolvimento de Sistemas, focado na construção e otimização de soluções de dados escaláveis.
 
-Possuo experiência profissional no ciclo de vida completo dos dados, sendo responsável pela arquitetura e desenvolvimento de pipelines de ETL/ELT. Utilizando ferramentas como Azure Data Factory e Databricks com PySpark.
+Possuo experiência profissional no ciclo de vida completo dos dados, atuando na arquitetura e desenvolvimento de pipelines de ETL/ELT. Em projetos com Azure, utilizei ferramentas como Data Factory e Databricks com PySpark. Na Huawei Cloud, otimizei pipelines orquestrando com DataArts Studio a extração de dados de APIs e transformações com PySpark (MRS).
 
 Com uma especialização no ecossistema Azure e vivência em ambiente GCP, tenho uma base sólida para me adaptar a diferentes tecnologias. Meu perfil autodidata me permite aprender e aplicar novas ferramentas de forma rápida, garantindo agilidade na resolução de desafios complexos.
 
