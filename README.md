@@ -1,10 +1,10 @@
 ### Olá, bem-vindo(a) ao meu perfil!
 
-Meu nome é Thiago Marchi de Morais, tenho 28 anos, engenheiro de Dados com formação em Análise e Desenvolvimento de Sistemas, focado na construção e otimização de soluções de dados escaláveis.
+Meu nome é Thiago Marchi de Morais, sou Engenheiro de Dados com formação em Análise e Desenvolvimento de Sistemas, focado na construção e otimização de soluções de dados escaláveis e modernas.
 
-Possuo experiência profissional no ciclo de vida completo dos dados, atuando na arquitetura e desenvolvimento de pipelines de ETL/ELT. Em projetos com Azure, utilizei ferramentas como Data Factory e Databricks com PySpark. Na Huawei Cloud, otimizei pipelines orquestrando com DataArts Studio a extração de dados de APIs e transformações com PySpark (MRS).
+Possuo experiência profissional no ciclo de vida completo dos dados, atuando na arquitetura e desenvolvimento de pipelines de ETL/ELT. Atualmente, meu foco está no ecossistema Google Cloud Platform (GCP), onde utilizo BigQuery e Dataform para transformação e modelagem de dados, além de ferramentas de integração e virtualização como Fivetran, Aecorsoft e Denodo.
 
-Com uma especialização no ecossistema Azure e vivência em ambiente GCP, tenho uma base sólida para me adaptar a diferentes tecnologias. Meu perfil autodidata me permite aprender e aplicar novas ferramentas de forma rápida, garantindo agilidade na resolução de desafios complexos.
+Minha trajetória inclui também uma base sólida em Microsoft Azure, onde atuei no desenvolvimento de pipelines utilizando Data Factory e Databricks com PySpark para processamento de grandes volumes de dados.
 
 <br>
 
