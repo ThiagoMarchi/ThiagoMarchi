@@ -16,7 +16,6 @@ Com uma especialização no ecossistema Azure e vivência em ambiente GCP, tenho
 
 ##
 <br>
-
   <div align="center">
   <a href="https://github.com/ThiagoMarchi">
 </div>
